@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "Blog_Generator",
-    siteURL: "https://bloggeneratormain.gatsbyjs.io/"
+    siteUrl: "https://bloggeneratormain.gatsbyjs.io/"
   },
   plugins: [
     "gatsby-plugin-sass",
